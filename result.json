@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Taha",
+    "surname": "Nur",
+    "phone": "905994445566",
+    "email": "m.tahanur46@gmail.com",
+    "description": "I'm a software engineer.",
+    "params": [
+      {
+        "country": "Türkiye"
+      },
+      {
+        "city": "İstanbul"
+      }
+    ]
+  }
+]
